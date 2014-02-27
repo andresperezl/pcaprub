@@ -31,7 +31,6 @@ Gem::Specification.new do |spec|
     "ext/pcaprub/extconf.rb",
     "ext/pcaprub/pcaprub.c",
     "lib/pcaprub.rb",
-    "lib/pcaprub.so",
     "lib/pcaprub/common.rb",
     "lib/pcaprub/ext.rb",
     "lib/pcaprub/version.rb",
